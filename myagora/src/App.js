@@ -2,6 +2,7 @@ import './App.css';
 import { useEffect, useState } from 'react';
 import { Form } from './Form'
 import { Discussions } from './Discussions'
+import { Discussion } from './Discussion';
 
 function App() {
   const [discussions, setDiscussions] = useState([]);
