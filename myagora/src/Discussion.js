@@ -14,4 +14,4 @@ export const Discussion = ({discussion}) => {
     </div>
   </li>
     )}
-export default Discussion;
+export default Discussion; 
