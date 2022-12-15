@@ -25,5 +25,5 @@ export const Form = () => {
         <button className="submit_button">submit</button>
         </div>
     </form>
-    </section>
+    </section>   
 )}
