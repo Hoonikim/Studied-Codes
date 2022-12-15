@@ -26,5 +26,4 @@ export const Form = () => {
         </div>
     </form>
     </section>
-    ) 
-}
+)}
