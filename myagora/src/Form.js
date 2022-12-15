@@ -13,7 +13,7 @@ export const Form = () => {
             <input type="text" name="name" id="name" required=""></input>
         </div>
         <div className="form__input--title">
-            <label htmlFor="name">Enter your title: </label>
+            <label htmlFor="name">Enter   your title: </label>
             <input type="text" name="name" id="name" required=""></input>
         </div>
         <div className="form__textbox">
