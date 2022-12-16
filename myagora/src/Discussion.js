@@ -13,5 +13,5 @@ export const Discussion = ({discussion}) => {
       <p className="discussion__isAnswered">{answer ? "✅" : "❎" }</p>
     </div>
   </li>
-    )}
+    )} 
 export default Discussion; 
