@@ -23,6 +23,6 @@ function App() {
       <Discussions discussions={discussions}></Discussions>
     </div>
   )
-}     
-
+}          
+ 
 export default App;
