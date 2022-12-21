@@ -24,5 +24,5 @@ function App() {
     </div>
   )
 }          
-머ㅏㅇ
+
 export default App;
