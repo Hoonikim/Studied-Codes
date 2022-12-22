@@ -24,5 +24,5 @@ function App() {
     </div>
   )
 }          
-김김세
+김김
 export default App;
